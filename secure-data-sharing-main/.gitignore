@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+
+# Secrets
+*.key
+.env
+
+# Uploaded / generated files
+uploaded_files/
+saved_models/
+*.pkl
+
+# Node
+node_modules/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
